@@ -1,6 +1,9 @@
 /node_modules
 /.next
 
+# Secret file
 .env.local
+.env
+/.env.local
 
 serviceAccountKey.json

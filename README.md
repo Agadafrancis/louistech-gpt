@@ -19,7 +19,7 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
 ![](https://img.shields.io/github/last-commit/Agadafrancis/louistech-gpt)
 
 <h4>
-    <a href="https://chatgpt-sclone.vercel.app">View Demo</a>
+    <a href="https://louistech-gpt.vercel.app">View Demo</a>
   <span> · </span>
     <a href="https://github.com/Agadafrancis/louistech-gpt/master/README.md">Documentation</a>
   <span> · </span>
@@ -55,10 +55,10 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
 ### :camera: Screenshots
 
 <div align="center">
-<a href="https://chatgpt-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/222308829-d2d34db2-df30-4d60-b238-7299fd28b3f6.png' alt='image'/></a>
+<a href="https://louistech-gpt.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/222308829-d2d34db2-df30-4d60-b238-7299fd28b3f6.png' alt='image'/></a>
 </div>
 
-## <a href="https://chatgpt-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
+## <a href="https://louistech-gpt.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)

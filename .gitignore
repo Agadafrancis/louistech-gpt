@@ -7,3 +7,4 @@
 /.env.local
 
 serviceAccountKey.json
+.vercel
